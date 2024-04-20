@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-This is a simple Tic Tac Toe game implemented in Java using Swing. The game allows two players to play against each other on a graphical user interface.
+This is a simple Tic Tac Toe game implemented in Java using Swing. The game allows two players to play against each other on a graphical user interface. this project is implemented using concepts like Swing, Event handling, Randomization, OOP concepts and much more.
 
 ## Features
 
